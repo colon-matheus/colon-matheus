@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Ruby on Rails | Angular | NodeJs   
+- 💻 &nbsp; Ruby on Rails | Angular | NodeJs | jQuery   
 - 🌐 &nbsp; HTML | CSS | JavaScript  
 - 🛢 &nbsp; Postgrees 
 - 🔧 &nbsp; Visual Studio code | Git
