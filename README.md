@@ -16,7 +16,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript  
 - 🛢 &nbsp; Postgrees 
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Heroku, Amazon AWS
+- 🖥 &nbsp; Heroku | Amazon AWS
 
 <h3> 🤝🏻 Connect with Me </h3>
 
