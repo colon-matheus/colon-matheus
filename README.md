@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Matheus dos Santos. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -9,15 +10,14 @@
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and reading all kinds of books.
 
-<div align="right">
-  <h3>🛠 Tech Stack</h3>
 
-  - 💻 &nbsp; Ruby on Rails | Angular | NodeJs | jQuery   
-  - 🌐 &nbsp; HTML | CSS | JavaScript  
-  - 🛢 &nbsp; Postgrees 
-  - 🔧 &nbsp; Visual Studio code | Git
-  - 🖥 &nbsp; Heroku | Amazon AWS
-</div>
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Ruby on Rails | Angular | NodeJs | jQuery   
+- 🌐 &nbsp; HTML | CSS | JavaScript  
+- 🛢 &nbsp; Postgrees 
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Heroku | Amazon AWS
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -28,6 +28,5 @@
 &nbsp; <a href="mailto:matheussantos4@icloud.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)
