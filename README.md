@@ -13,7 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Ruby on Rails | Angular | NodeJs | jQuery   
+- 💻 &nbsp; 
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails&logoColor=CC0000)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
 - 🌐 &nbsp; HTML | CSS | JavaScript  
 - 🛢 &nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL) 
 - 🔧 &nbsp; Visual Studio code | Git
