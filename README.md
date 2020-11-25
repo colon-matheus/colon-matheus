@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Ruby on Rails | Angular | NodeJs | jQuery   
 - 🌐 &nbsp; HTML | CSS | JavaScript  
-- 🛢 &nbsp; Postgrees 
+- 🛢 &nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL) 
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Heroku | Amazon AWS
 
