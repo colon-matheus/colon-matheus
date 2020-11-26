@@ -22,9 +22,14 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=78CFF5)
 - 🛢 &nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL) 
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Heroku | Amazon AWS
-
+- 🔧 &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
+- 🖥 &nbsp;
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure)
+  ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-333333?style=flat&logo=amazon-aws)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
