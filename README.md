@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 I'm currently working as Fron-end with Angular.
+- 💼 I'm currently working as a Fron-end with Angular.
 - 🎓 I have a degree in Systems Analysis and Development.
 - 🧪 Enthusiast in cyber Security and Science.
 - 📚 Hobbies: Watch good movies/animes and read.
