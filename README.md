@@ -3,12 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning about Data Structures and Design Patterns
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Back-end developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and reading all kinds of books.
+- 💼 I'm currently working as Fron-end with Angular.
+- 🎓 I have a degree in Systems Analysis and Development.
+- 🧪 Enthusiast in cyber Security and Science.
+- 📚 Hobbies: Watch good movies/animes and read.
+- 😉 I love what I do!
 
 
 <h3>🛠 Tech Stack</h3>
