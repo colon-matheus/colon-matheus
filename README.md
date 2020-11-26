@@ -14,14 +14,16 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; 
-  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails&logoColor=CC0000) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails&logoColor=CC0000)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=78CFF5)
-- 🛢 &nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL) 
+- 🛢 &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL) 
 - 🔧 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
